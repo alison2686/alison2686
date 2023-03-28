@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Frontend or FullStack projects
 - 📫 How to reach me: [linkedin.com/in/alison2686](https://www.linkedin.com/in/alison2686/)
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a former chef, baker, and bagel company owner 🥯
+- ⚡ Fun fact: I'm a former baker and bagel company owner 🥯
