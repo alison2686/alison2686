@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working (https://goalsandassists.org/)
+- 🔭 I’m currently working [goalsandassists.org](https://goalsandassists.org/)
 - 🌱 I’m currently learning REST APIs with Flask and Python
 - 👯 I’m looking to collaborate on Frontend or FullStack projects
-- 📫 How to reach me: linkedin.com/in/alison2686
+- 📫 How to reach me: [linkedin.com/in/alison2686](https://www.linkedin.com/in/alison2686/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a former chef, baker, and bagel company owner 🥯
