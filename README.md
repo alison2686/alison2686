@@ -18,5 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning 🐍 REST APIs with Flask and Python
 - 👯 I’m looking to collaborate on Frontend or FullStack projects 💻
 - 📫 How to reach me: [linkedin.com/in/alison2686](https://www.linkedin.com/in/alison2686/)
-- 😄 Pronouns: she/her
 - ⚡ Fun fact: I'm a former baker and bagel company owner 🥯
